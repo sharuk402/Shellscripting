@@ -1,2 +1,1 @@
-# Shellscripting
-Sample program for Devops training.
+# My Demo Repository
